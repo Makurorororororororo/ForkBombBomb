@@ -1,4 +1,4 @@
-# BirdPooper
+# ForkBombBomb (BirdPooper)
 This was a project that my friend (SudoIndividual) and I did back in june/july 2020. Why is it called birdpooper? Because when bird poops on you, you will struggle to clean the poop off your clothes. Thus, this malware will make you struggle to clean the "poop"/malware off your computer. 
 
 ### Purpose
